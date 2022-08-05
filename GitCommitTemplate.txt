@@ -1,0 +1,3 @@
+Tier:1
+Project:1.Bin2Dec
+Description:明确软件开发流程，了解Bin2Dec项目详细信息。
